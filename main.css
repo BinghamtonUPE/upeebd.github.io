@@ -66,6 +66,10 @@ body{
   height: 80%;
 }
 
+div.hidden{
+  visibility: hidden;
+}
+
 div.body_container {
   width: 100%;
   height: 100%;
